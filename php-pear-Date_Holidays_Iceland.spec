@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - Driver based class to calculate holidays in Iceland
 Summary(pl.UTF-8):	%{_pearname} - klasa do obliczania dat świąt islandzkich
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
+Version:	0.1.1
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	d4a0486e967869f7631cbfacb901d4c5
+# Source0-md5:	8fa81a9a4edb2d6eb432ca406f691997
 URL:		http://pear.php.net/package/Date_Holidays_Iceland/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
